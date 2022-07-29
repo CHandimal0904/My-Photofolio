@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/IntelliLang.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -49,6 +52,10 @@
       <option name="presentableId" value="Default" />
       <updated>1658388082308</updated>
       <workItem from="1658388086851" duration="2194000" />
+      <workItem from="1658460547833" duration="1180000" />
+      <workItem from="1658544996244" duration="596000" />
+      <workItem from="1658991499017" duration="2530000" />
+      <workItem from="1658997213990" duration="6328000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -68,9 +75,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add Img" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1658395115694">
+    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1659058891597">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1658395115694" />
+    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1659058891597" />
+    <state x="212" y="53" key="SettingsEditor" timestamp="1659057063842">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="212" y="53" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1659057063842" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1658997213054">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1658997213054" />
   </component>
 </project>
