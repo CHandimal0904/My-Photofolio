@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <workItem from="1658991499017" duration="2530000" />
       <workItem from="1658997213990" duration="9628000" />
       <workItem from="1659089594044" duration="2746000" />
-      <workItem from="1659156009814" duration="4419000" />
+      <workItem from="1659156009814" duration="5359000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -87,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659157757118</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Text content">
+      <created>1659195575368</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659195575368</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,25 +113,26 @@
     <MESSAGE value="Add Img" />
     <MESSAGE value="Content sectioning" />
     <MESSAGE value="Text content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Text content" />
+    <MESSAGE value="Inline text semantics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inline text semantics" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1659195572343">
+    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1659196915086">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1659195572343" />
+    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1659196915086" />
     <state x="212" y="53" key="SettingsEditor" timestamp="1659157842878">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="212" y="53" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1659157842878" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1659156748208">
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1659225161085">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1659156748208" />
-    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659195520777">
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1659225161085" />
+    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659196981364">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1659195520777" />
+    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1659196981364" />
     <state x="339" y="172" key="run.anything.popup" timestamp="1659093434505">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
