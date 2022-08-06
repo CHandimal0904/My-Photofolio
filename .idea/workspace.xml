@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Images/1659371522240.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/age.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/fb_icon_325x325.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/github_PNG58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/job.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/name person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/pcbyFzcn67b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/whatsapp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/white-location-icon-png-15.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/png-transparent-laptop-computer-monitors-personal-computer-students-electronics-child-computer.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,10 +45,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assets/Images" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets" />
     </key>
   </component>
@@ -58,7 +74,11 @@
       <workItem from="1658997213990" duration="9628000" />
       <workItem from="1659089594044" duration="2746000" />
       <workItem from="1659156009814" duration="5359000" />
-      <workItem from="1659241266056" duration="2715000" />
+      <workItem from="1659241266056" duration="3933000" />
+      <workItem from="1659346655109" duration="5471000" />
+      <workItem from="1659434637879" duration="598000" />
+      <workItem from="1659573970627" duration="6863000" />
+      <workItem from="1659770618806" duration="2372000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -135,10 +155,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="212" y="53" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1659157842878" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1659241265104">
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1659772292741">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1659241265104" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1659772292741" />
     <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659196981364">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
