@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Images/1659371522240.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/age.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/fb_icon_325x325.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/github_PNG58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/job.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/name person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/pcbyFzcn67b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/whatsapp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/white-location-icon-png-15.jpg" afterDir="false" />
+    <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="Create Forms">
+      <change afterPath="$PROJECT_DIR$/Assets/Images/121152 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/5968363.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/5d94ffcde218e5f5118fbaafc4e32349856ee8cc.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/LifeStyle1 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/LifeStyle1 (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/LifeStyle1 (4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/LifeStyle1 (5).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/LifeStyle1 (6).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Modern-tech-global-network-background-vector-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/MySqlLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/hibernate_logo_whitebkg_stacked_256px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/intellij-idea-logo-black-and-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/javaLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/lifeStyle2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/project img (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/project img2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/project img3.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/png-transparent-laptop-computer-monitors-personal-computer-students-electronics-child-computer.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,12 +55,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -78,7 +84,9 @@
       <workItem from="1659346655109" duration="5471000" />
       <workItem from="1659434637879" duration="598000" />
       <workItem from="1659573970627" duration="6863000" />
-      <workItem from="1659770618806" duration="2372000" />
+      <workItem from="1659770618806" duration="3234000" />
+      <workItem from="1659796554919" duration="624000" />
+      <workItem from="1659851198011" duration="3289000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -122,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659244921044</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Create Forms">
+      <created>1659778059139</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659778059139</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,21 +159,22 @@
     <MESSAGE value="Text content" />
     <MESSAGE value="Inline text semantics" />
     <MESSAGE value="Html Text content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Html Text content" />
+    <MESSAGE value="Create Forms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Forms" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1659244916936">
+    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1659778071759">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1659244916936" />
+    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1659778071759" />
     <state x="212" y="53" key="SettingsEditor" timestamp="1659157842878">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="212" y="53" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1659157842878" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1659772292741">
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1659851225730">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1659772292741" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1659851225730" />
     <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659196981364">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
