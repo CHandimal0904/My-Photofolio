@@ -37,6 +37,7 @@
 .headder{
     color: #EE5A24;
     font-size: 40px;
+    text-align: center;
 }
 #abtName{
     color: #32FF7E;
@@ -57,10 +58,40 @@
     color: #32FF7E;
 }
 .Dcntct{
-    color: blue;
-    font-size: 15px;
+    color: white;
+    font-size: 20px;
 }
 .cntct{
-    color: blue;
-    font-size: 13px;
+    color: white;
+    font-size: 15px;
+}
+.SectionColor{
+    background: black;
+}
+.lbl{
+    color: white;
+}
+#btnSend{
+    color: #E67E22;
+}
+.Services{
+    color: white;
+}
+btnsend:hover {
+    color: #E67E22;
+}
+#Dnld{
+    color: #E84118;
+    font-size: 30px;
+
+}
+#Dnld:visited{
+    color: #E67E22;
+}
+input::placeholder{
+    color: #000000;
+}
+header>section:first-child{
+    border-radius: 50px;
+    
 }

@@ -74,7 +74,15 @@
       <workItem from="1659796554919" duration="624000" />
       <workItem from="1659851198011" duration="9517000" />
       <workItem from="1659912955043" duration="4858000" />
-      <workItem from="1659932967535" duration="832000" />
+      <workItem from="1659932967535" duration="4856000" />
+      <workItem from="1660028412577" duration="1825000" />
+      <workItem from="1660058020861" duration="1272000" />
+      <workItem from="1660363777289" duration="450000" />
+      <workItem from="1660482174144" duration="612000" />
+      <workItem from="1660617662921" duration="4452000" />
+      <workItem from="1660709372440" duration="592000" />
+      <workItem from="1660834375314" duration="5092000" />
+      <workItem from="1660980320236" duration="766000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -146,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659867907353</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="CSS Selectors">
+      <created>1659933859618</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1659933859618</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,21 +187,22 @@
     <MESSAGE value="Complete Html" />
     <MESSAGE value="Complete Html Final" />
     <MESSAGE value="Link CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Link CSS" />
+    <MESSAGE value="CSS Selectors" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS Selectors" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1659867904101">
+    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1660981142055">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1659867904101" />
+    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1660981142055" />
     <state x="212" y="53" key="SettingsEditor" timestamp="1659157842878">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="212" y="53" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1659157842878" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1659932976280">
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1660980319510">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1659932976280" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1660980319510" />
     <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659867877687">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

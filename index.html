@@ -14,7 +14,8 @@
     <link rel="stylesheet" href="Assets/CSS/Styles.css">
 </head>
 <body>
-<header>
+<main>
+<header class="SectionColor">
     <nav>
         <p id="Hname">Nimantha</p>
         <p id="Hhome">Home</p>
@@ -25,21 +26,21 @@
         <p id="Hlife">Life Style</p>
         <p id="Hcontact">Contact</p>
     </nav>
-</header>
-<main>
-    <content>
+
+
+    <section>
         <img src="Assets/Images/pcbyFzcn67b.jpg" alt="This is a image of Univercity of ruhuna">
         <img src="Assets/Images/1659371522240.jpg" alt="this is a profile picture" width="200">
         <img src="Assets/Images/fb_icon_325x325.png" alt="this is fb icon" width="30">
         <img src="Assets/Images/whatsapp.png" alt="this is whatsapp image" width="60">
         <img src="Assets/Images/github_PNG58.png" alt="this is git hub logo" width="50">
 
-    </content>
+    </section >
     <p id="intHi"> <b>Hi I am
         <p id="Mynme">Tharinndu Nimantha Chandimal</p>
         <p>I am Full Stack Software Engneer</p>
         <p id="cntkme">Contact me</p>
-    <content>
+    <section class="SectionColor">
         <h3 class="headder">About Me</h3>
         <address>
             <li id="abtName"><img src="Assets/Images/name%20person.png " alt="person img" width="30">Gammana Liyanage Tharindu Nimantha Chandimal</li>
@@ -48,13 +49,15 @@
             <li id="abtAge"><img src="Assets/Images/age.png" alt="" width="30">26</li>
             <li id="abtOcation"><img src="Assets/Images/job.jpg" alt=""width="30">Software engneer</li>
         </address>
-    </content>
+        <a href="google.com">Download CV</a>
+    </section>
+ </header>
 
-    <content>
+    <section class="SectionColor">
         <h3 class="headder">Education</h3>
-    </content>
+    </section>
 
-    <content>
+    <section class="SectionColor">
         <h3 class="headder">Skils</h3>
         <img src="Assets/Images/javaLogo.png" alt="java logo"width="250">
         <img src="Assets/Images/MySqlLogo.png" alt="MySql Logo" width="250">
@@ -64,9 +67,9 @@
         <p>MySql</p>
         <p>IntelliJ</p>
         <p>Hibernate</p>
-    </content>
+    </section>
 
-    <content>
+    <section id="SeProjects">
         <h3 class="headder">Projects</h3>
         <nav>
             <img src="Assets/Images/project%20img%20(1).jpg" alt="" width="250">
@@ -76,9 +79,9 @@
             <p>HTML</p>
             <p>Java</p>
         </nav>
-    </content>
+    </section>
 
-    <content>
+    <section class="SectionColor">
         <h3 class="headder">Life Style</h3>
         <img src="Assets/Images/LifeStyle1%20(2).jpg" alt="" width="250">
         <img src="Assets/Images/LifeStyle1%20(3).jpg" alt=""width="250">
@@ -87,9 +90,9 @@
         <img src="Assets/Images/LifeStyle1%20(6).jpg" alt=""width="250">
         <img src="Assets/Images/lifeStyle2.jpg" alt="" width="250">
 
-    </content>
+    </section>
 
-    <content>
+    <section class="SectionColor">
         <h3 class="headder">Contact</h3>
         <dl>
             <dt class="Dcntct">Name</dt>
@@ -109,39 +112,41 @@
             <form action=""  method="post">
                 <fieldset>
                   <legend>Contact me</legend>
-                    <label for="txtName">Name</label>
+                    <label for="txtName" class="lbl">Name</label>
                     <input type="text" id="txtName" required>
                     <br>
                     <br>
-                    <label for="txtEmail">Email</label>
+                    <label for="txtEmail" class="lbl">Email</label>
                     <input type="email" id="txtEmail" placeholder="@gmail.com" required>
                     <br>
                     <br>
-                    <label for="txtSub">Subject</label>
+                    <label for="txtSub" class="lbl">Subject</label>
                     <input type="text" id="txtSub" required>
                     <br>
                     <br>
-                    <label for="txtMsg">Message</label>
+                    <label for="txtMsg" class="lbl">Message</label>
                     <textarea name="" id="txtMsg" cols="40" rows="5"></textarea>
                     <br>
-                    <button>Send</button>
+                    <button id="btnSend">Send</button>
                 </fieldset>
 
             </form>
         </dl>
-    </content>
+    </section>
 
 </main>
-<footer>
-    <h2>Services</h2>
-    <p>Web Development</p>
-    <p>Gphic Designr</p>
-    <p>Ui/Ux Design</p>
-    <p>Mobile App Development</p>
+<footer class="SectionColor">
+    <dl>
+    <dt class="Services">Services</dt>
+    <dd class="Services">Web Development</dd>
+    <dd class="Services">Gphic Designr</dd>
+    <dd class="Services">Ui/Ux Design</dd>
+    <dd class="Services">Mobile App Development</dd>
     <img src="Assets/Images/twentyfourSeven.webp" alt="" width="40">
     <img src="Assets/Images/Java_programming_language_logo.svg.png" alt="" width="40">
     <img src="Assets/Images/logo-mysql-mysql-and-moodle-elearningworld-5.png" alt="" width="40">
     <img src="Assets/Images/apps-android-icon-png-10.png" alt="" width="40">
+    </dl>
 </footer>
 </body>
 </html>
