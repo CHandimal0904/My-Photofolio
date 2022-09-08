@@ -1,58 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="1st milestone">
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment3/Assets/CSS/Styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment3/Assignment3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment3/Assignment3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment4/Assets/CSS/Styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment4/Assignment4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment4/Assignment4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment6/Asdsignment6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment6/Assets/CSS/Styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment6/Assignment6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment_5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment_5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment_5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment_5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment_5/Assets/CSS/Styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment_5/Assignment5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Assignment_5/Assignment_5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS_Asignment_2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS_Asignment_2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS_Asignment_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS_Asignment_2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS_Asignment_2/Assets/CSS/Styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS_Asignment_2/Assets/img/ijse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS_Asignment_2/Assets/img/lion.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS_Asignment_2/Assets/img/lion1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS_Asignment_2/Assets/img/lion2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS_Asignment_2/Assignment_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS_Asignment_2/CSS_Asignment_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Internet_technologies_essignment_1/.idea/Internet_technologies_essignment_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Internet_technologies_essignment_1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Internet_technologies_essignment_1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Internet_technologies_essignment_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Internet_technologies_essignment_1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Internet_technologies_essignment_1/Assets/CSS/Styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Internet_technologies_essignment_1/Internet_technologies_essignment_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/Internet_technologies_essignment_1/index.html" afterDir="false" />
+    <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CSS/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CSS/Styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Essignments/Essignments.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +48,7 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments" />
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\Assignment1" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\fonts" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
     </key>
@@ -155,7 +106,7 @@
       <workItem from="1662465287454" duration="427000" />
       <workItem from="1662519475454" duration="2139000" />
       <workItem from="1662535618374" duration="6134000" />
-      <workItem from="1662575834984" duration="12863000" />
+      <workItem from="1662575834984" duration="13212000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -241,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660981150639</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1st milestone last">
+      <created>1662619289650</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662619289650</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,13 +228,14 @@
     <MESSAGE value="CSS Selectors" />
     <MESSAGE value="Headders Align Center" />
     <MESSAGE value="1st milestone" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st milestone" />
+    <MESSAGE value="1st milestone last" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st milestone last" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1662619241928">
+    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1662619284211">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1662619241928" />
+    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1662619284211" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1661677507540">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
