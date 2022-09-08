@@ -1,34 +1,68 @@
+#Mbdy{
+    font-weight: bold;
+}
 #Hname{
     color: #ffffff;
-
+    margin-right: auto;
 }
 #Hhome{
     color: #ffffff;
 }
+#Hhome:hover{
+    color: greenyellow;
+}
 #Habout{
     color: #ffffff;
+}
+#Habout:hover{
+    color: greenyellow;
 }
 #Heducation{
     color: #ffffff;
 }
+#Heducation:hover{
+    color: greenyellow;
+}
 #Hskils{
     color: #ffffff;
+}
+#Hskils:hover{
+    color: greenyellow;
 }
 #Hprojects{
     color: #ffffff;
 }
+#Hprojects:hover{
+    color: greenyellow;
+}
 #Hlife{
     color: #ffffff;
+}
+#Hlife:hover{
+    color: greenyellow;
 }
 #Hcontact{
     color: #ffffff;
 }
+#Hcontact:hover{
+    color: greenyellow;
+}
 #intHi{
     color: #78E08F;
+    font-size: 20px;
 }
 #Mynme{
     color: #FFF200;
     font-size: 30px;
+}
+#FSSE {
+    color: #ffffff;
+    font-size: 30px;
+}
+#Mynmeis{
+    position: absolute;
+    left: 40px;
+    top: 350px;
 }
 #cntkme{
     color: #FF3838;
@@ -39,23 +73,48 @@
     font-size: 40px;
     text-align: center;
 }
+
 #abtName{
+    position: relative;
+    left: 90px;
     color: #32FF7E;
+    list-style: none;
+    padding-bottom: 5px;
+}
+#abtUnicty{
+    position: relative;
+    left: 90px;
+    color: #32FF7E;
+    list-style: none;
+    padding-bottom: 5px;
 }
 #abtAddress{
+    position: relative;
+    left: 90px;
     color: #32FF7E;
+    list-style: none;
+    padding-bottom: 5px;
 }
 #abtBDay{
+    position: relative;
+    left: 90px;
     color: #32FF7E;
+    list-style: none;
+    padding-bottom: 5px;
 }
 #abtAge{
+    position: relative;
+    left: 90px;
     color: #32FF7E;
-}
-#abtAge{
-    color: #32FF7E
+    list-style: none;
+    padding-bottom: 5px;
 }
 #abtOcation{
+    position: relative;
+    left: 90px;
     color: #32FF7E;
+    list-style: none;
+    padding-bottom: 5px;
 }
 .Dcntct{
     color: white;
@@ -66,13 +125,17 @@
     font-size: 15px;
 }
 .SectionColor{
-    background: black;
+    position: relative;
+    background:linear-gradient(to right,black,gray);
 }
 .lbl{
     color: white;
 }
 #btnSend{
-    color: #E67E22;
+    background-color: #E67E22;
+    border-radius: 42%;
+    background: linear-gradient(to right,orangered,white);
+    border: none;
 }
 .Services{
     color: white;
@@ -83,6 +146,8 @@ btnsend:hover {
 #Dnld{
     color: #E84118;
     font-size: 30px;
+    position: relative;
+    left: 80px;
 
 }
 #Dnld:visited{
@@ -93,5 +158,204 @@ input::placeholder{
 }
 header>section:first-child{
     border-radius: 50px;
-    
+}
+header>nav>ul>li{
+    display: inline-block;
+    padding-right: 30px;
+}
+#PrflePc{
+    border: 2px solid black;
+    width: 25%;
+    height: auto;
+    border-radius: 200px;
+    position:absolute;
+    right: 10px;
+    top: 120px;
+}
+a,a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: #FFF200;
+}
+#HmeBtn{
+    border: none;
+    border-radius: 12px;
+    height: 30px;
+    width: 75px;
+    font-family: "Arial Rounded MT Bold";
+    background-color:  green;
+    position: fixed;
+    bottom: 100px;
+    right: 20px;
+}
+#HmeBtn:hover{
+    background: linear-gradient(to right,purple,white);
+}
+#Cvdld{
+    position: relative;
+    left: 590px;
+    font-size: 30px;
+
+}
+#cntctwp{
+    position: absolute;
+    left: 30px;
+    top: 600px;
+}
+#cntctfb{
+    position: absolute;
+    left: 100px;
+    top: 608px;
+}
+#cntctgit{
+    position: absolute;
+    left: 150px;
+    top: 595px;
+}
+header>section>address>{
+    position: absolute;
+    left: 75px;
+    top: 85px;
+    border-radius: 100px;
+}
+#uorimg{
+    width: 100%;
+    height: auto;
+}
+#imgadrs{
+    position: absolute;
+    left: 75px;
+    top: 115px;
+}
+#imgbod{
+    position: absolute;
+    left: 75px;
+    top: 150px;
+    border-radius: 50px;
+}
+#imgage{
+    position: absolute;
+    left: 75px;
+    top: 185px;
+    border-radius: 50px;
+}
+#imgoct{
+    position: absolute;
+    left: 75px;
+    top: 220px;
+    border-radius: 50px;
+}
+address>ul>li>i{
+    padding-right: 10px;
+    color: white;
+}
+header>nav>ul{
+    position: sticky;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 5px 1%;
+}
+header>nav>ul>li>i{
+    padding-right: 8px;
+}
+main>section:nth-child(5)>div {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+}
+main>section:nth-child(6)>dl>dt{
+    color:#2ea5b1;
+}
+main>section:nth-child(6)>dl>dd{
+    color: #43b941;
+    padding-bottom: 15px;
+}
+main>section:nth-child(6)>dl>dt>i{
+    color: #c9b525;
+    padding-right: 5px;
+}
+main>section:nth-child(6)>dl{
+    position: relative;
+    left: 40px ;
+}
+fieldset{
+    width: 20%;
+    position: relative;
+    right: 0;
+    top: 0;
+}
+legend{
+    font-weight: bold;
+    font-size: 20px;
+    color: #eba5e2;
+}
+footer>dl>dt{
+    color: #E67E22;
+    font-weight: bold;
+    font-size: 30px;
+}
+footer>div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+footer>div>img{
+    padding-right: 25px;
+    width: 70px;
+    height: 70px;
+}
+footer>div>img:nth-child(1){
+    border-radius: 50%;
+}
+form{
+    position: absolute;
+    top: -10px;
+    right: 50px;
+    border: transparent;
+}
+form>fieldset>input{
+    background-color: transparent;
+    position:relative;
+    left: 30px;
+}
+form>fieldset>label{
+    color: #43b941;
+    font-weight: bold;
+}
+form>fieldset>input:nth-child(3){
+    position: relative;
+    left: 10px;
+}
+
+#txtName{
+    position: relative;
+    left: 40px;
+}
+#txtEmail{
+    position: relative;
+    left: 40px;
+}
+#txtMsg{
+    background-color: #b5b59a;
+    border-radius: 10%;
+    border: black;
+}
+footer>dl>dd{
+    padding-bottom: 15px;
+}
+footer>dl>dd>i{
+    color: #43b941;
+    padding-right: 10px;
 }

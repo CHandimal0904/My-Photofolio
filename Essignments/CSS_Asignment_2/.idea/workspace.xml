@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a298d31d-8642-4802-b126-97c275e9e070" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CSS_Asignment_2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2DpwB7BCK83SIkHXz5TTIxuviJq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GDSE59\Internet Tecnologies\CSS_Asignment_2\Assets\img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a298d31d-8642-4802-b126-97c275e9e070" name="Default Changelist" comment="" />
+      <created>1661409196013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661409196013</updated>
+      <workItem from="1661409202713" duration="17624000" />
+      <workItem from="1661439284346" duration="1237000" />
+      <workItem from="1661474887546" duration="1421000" />
+      <workItem from="1661504001577" duration="8260000" />
+      <workItem from="1661519722984" duration="15000" />
+      <workItem from="1661528187142" duration="2762000" />
+      <workItem from="1661676987698" duration="28000" />
+      <workItem from="1661677513870" duration="256000" />
+      <workItem from="1661679456488" duration="237000" />
+      <workItem from="1661733051558" duration="597000" />
+    </task>
+    <task id="LOCAL-00001" summary="Complete..">
+      <created>1661531082853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661531082853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Side nav" />
+    <MESSAGE value="Complete.." />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete.." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="285" y="0" key="CommitChangelistDialog2" timestamp="1661531067732">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="285" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1661531067732" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1661677014678">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1661677014678" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1661733793616">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1661733793616" />
+    <state x="65" y="108" key="new project wizard" timestamp="1661475077823">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="65" y="108" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1661475077823" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1661415084801">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1661415084801" />
+  </component>
+</project>

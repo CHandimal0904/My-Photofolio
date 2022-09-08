@@ -1,0 +1,121 @@
+#csebr{
+    width: 100%;
+    height: 50px;
+    background: red;
+    position: sticky;
+    left: 0;
+    top: 0;
+}
+#se1{
+    width: 100%;
+    height: 700px;
+    background: white;
+    position: relative;
+    margin: auto;
+}
+h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+#se2{
+    width: 100%;
+    height: 700px;
+    background: lightblue;
+    position: relative;
+}
+#csebr1{
+    width: 100%;
+    height: 50px;
+    background: darkblue;
+    position: sticky;
+    left: 0;
+    top: 0;
+}
+#se3{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px ;
+    left: 0px;
+    top: 0px;
+    margin: auto;
+}
+h2{
+    position: absolute;
+    font-weight: bold;
+    font-size: 50px;
+    right: 0px;
+    bottom: 0px ;
+    left: 0px;
+    top: 0px;
+    margin: auto;
+}
+#se4{
+    background: lightblue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px ;
+    left: 0px;
+    top: 0px;
+    margin: auto;
+}
+#scebr2{
+    width: 100%;
+    height: 50px;
+    background: black;
+    position: sticky;
+    left: 0;
+    top: 0;
+}
+#se5{
+    width: 100%;
+    height: 700px;
+    background: gray;
+    position: relative;
+    margin: auto;
+}
+#se6{
+    background: gray;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px ;
+    left: 0px;
+    top: 0px;
+    margin: auto;
+}
+#csebr3{
+    width: 100%;
+    height: 50px;
+    background: darkred;
+    position: sticky;
+    left: 0;
+    top: 0;
+}
+#se7{
+    width: 100%;
+    height: 700px;
+    background: red;
+    position: relative;
+    margin: auto;
+}
+#se8{
+    background: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px ;
+    left: 0px;
+    top: 0px;
+    margin: auto;
+}
+
