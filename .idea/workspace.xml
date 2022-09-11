@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CSS/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CSS/Styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +109,7 @@
       <workItem from="1662633462272" duration="625000" />
       <workItem from="1662652970276" duration="3980000" />
       <workItem from="1662735634867" duration="18796000" />
-      <workItem from="1662882002190" duration="6668000" />
+      <workItem from="1662882002190" duration="6960000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -213,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662653760229</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Responcive to Mobile type to small">
+      <created>1662889167941</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1662889167941</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +247,8 @@
     <MESSAGE value="1st milestone" />
     <MESSAGE value="1st milestone last" />
     <MESSAGE value="1st milestone last2" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st milestone last2" />
+    <MESSAGE value="Responcive to Mobile type to small" />
+    <option name="LAST_COMMIT_MESSAGE" value="Responcive to Mobile type to small" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1662889160990">
