@@ -112,7 +112,7 @@
       <workItem from="1662633462272" duration="625000" />
       <workItem from="1662652970276" duration="3980000" />
       <workItem from="1662735634867" duration="18796000" />
-      <workItem from="1662882002190" duration="8708000" />
+      <workItem from="1662882002190" duration="10105000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -219,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662889167941</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Responcive to Mobile type to small 375">
+      <created>1662894727307</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1662894727307</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,13 +258,14 @@
     <MESSAGE value="1st milestone last" />
     <MESSAGE value="1st milestone last2" />
     <MESSAGE value="Responcive to Mobile type to small" />
-    <option name="LAST_COMMIT_MESSAGE" value="Responcive to Mobile type to small" />
+    <MESSAGE value="Responcive to Mobile type to small 375" />
+    <option name="LAST_COMMIT_MESSAGE" value="Responcive to Mobile type to small 375" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1662889160990">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1662894724356">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1662889160990" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1662894724356" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1661677507540">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
