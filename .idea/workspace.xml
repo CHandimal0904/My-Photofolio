@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Essignments/CSS/Animations/Assignment1/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Essignments/CSS/Animations/Assignment1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CSS/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CSS/Styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,21 +39,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Essignments" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSS_Animation_Assignment1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\CSS\Animations\Assignment1" />
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\CSS\Basics" />
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\CSS" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\Assignment1" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\fonts" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\CSS\Basics" />
-      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
-      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -113,7 +116,11 @@
       <workItem from="1662652970276" duration="3980000" />
       <workItem from="1662735634867" duration="18796000" />
       <workItem from="1662882002190" duration="11553000" />
-      <workItem from="1663036945922" duration="4377000" />
+      <workItem from="1663036945922" duration="8151000" />
+      <workItem from="1663082367083" duration="5841000" />
+      <workItem from="1663105771186" duration="2560000" />
+      <workItem from="1663174046257" duration="8527000" />
+      <workItem from="1663218496991" duration="5499000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -234,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662896531280</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Responcive to Mobile type and tab(320px,375px,375px,768px)">
+      <created>1663051213720</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1663051213720</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,36 +282,45 @@
     <MESSAGE value="Responcive to Mobile type to small" />
     <MESSAGE value="Responcive to Mobile type to small 375" />
     <MESSAGE value="Responcive to Mobile type to small 425px" />
-    <option name="LAST_COMMIT_MESSAGE" value="Responcive to Mobile type to small 425px" />
+    <MESSAGE value="Responcive to Mobile type and tab(320px,375px,375px,768px)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Responcive to Mobile type and tab(320px,375px,375px,768px)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1662896528345">
+    <state x="275" y="42" key="#Inspections" timestamp="1663088704629">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1662896528345" />
-    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1661677507540">
+    <state x="275" y="42" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1663088704629" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1663225182876">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1661677507540" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1663225182876" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1663210967434">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1663210967434" />
     <state x="212" y="53" key="SettingsEditor" timestamp="1659157842878">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="212" y="53" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1659157842878" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1663036946721">
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1663174320170">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1663036946721" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1663174320170" />
     <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659867877687">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1659867877687" />
-    <state x="65" y="108" key="new project wizard" timestamp="1662110808990">
+    <state x="65" y="108" key="new project wizard" timestamp="1663174665892">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="65" y="108" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1662110808990" />
-    <state x="339" y="172" key="run.anything.popup" timestamp="1659093434505">
+    <state x="65" y="108" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1663174665892" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1663089395224">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1659093434505" />
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1663089395224" />
+    <state x="868" y="89" key="search.everywhere.popup" timestamp="1663218614055">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="868" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1663218614055" />
   </component>
 </project>

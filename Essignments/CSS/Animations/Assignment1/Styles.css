@@ -1,0 +1,42 @@
+body>section>div{
+    border: 1px deeppink solid;
+    background-color: #f950ff;
+    box-shadow: 6px 6px 11px 0px;;
+    width: 220px;
+    height: 50px;
+}
+body>section>div>h3>i{
+    padding-left: 95px;
+}
+body>section>div:nth-child(3)>h3>i{
+    padding-left: 65px;
+}
+body>section>div:nth-child(4)>h3>i{
+    padding-left: 75px;
+}
+body>section>div:nth-child(5)>h3>i{
+    padding-left: 75px;
+}
+
+body>section>div{
+    position: relative;
+    right: 180px;
+    margin-bottom: 95px;
+    transition-property: all;
+    transition-duration: 1.5s;
+}
+body>section>div>h3{
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 15px;
+
+}
+body>section>div:hover{
+    position: relative;
+    right: 15px;
+    background-color: #0772ff;
+    color: #28b995;
+    transition-property:all;
+    transition-duration: 1.5s;
+}
