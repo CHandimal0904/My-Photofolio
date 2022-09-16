@@ -1,0 +1,47 @@
+section>div>div{
+    border: 10px white solid;
+    border-top: 10px solid #E84118 ;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: #e8e0e5;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    cursor: pointer;
+
+}
+section>div>div{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: yellow;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto
+}
+body{
+    background-color: purple;
+}
+section>div>h3{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: max-content;
+    height: max-content;
+
+}
+section>div>div:hover{
+    transform: rotate(360deg);
+    transition-property: all;
+    transition-duration: 2s;
+}

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS/Animations/Assignment1/Styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS/Animations/Assignment1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Essignments/CSS/Animations/Assignment_2/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Essignments/CSS/Animations/Assignment_2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Essignments/CSS/Animations/Assignment1/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Essignments/CSS/Animations/Assignment1/Styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +121,9 @@
       <workItem from="1663082367083" duration="5841000" />
       <workItem from="1663105771186" duration="2560000" />
       <workItem from="1663174046257" duration="8527000" />
-      <workItem from="1663218496991" duration="5499000" />
+      <workItem from="1663218496991" duration="7824000" />
+      <workItem from="1663250906053" duration="986000" />
+      <workItem from="1663307367907" duration="2590000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -248,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663051213720</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Complete Animation Assignment 1">
+      <created>1663225189464</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1663225189468</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,17 +293,18 @@
     <MESSAGE value="Responcive to Mobile type to small 375" />
     <MESSAGE value="Responcive to Mobile type to small 425px" />
     <MESSAGE value="Responcive to Mobile type and tab(320px,375px,375px,768px)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Responcive to Mobile type and tab(320px,375px,375px,768px)" />
+    <MESSAGE value="Complete Animation Assignment 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Animation Assignment 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="42" key="#Inspections" timestamp="1663088704629">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1663088704629" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1663225182876">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1663310255505">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1663225182876" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1663310255505" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1663210967434">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -302,10 +313,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="212" y="53" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1659157842878" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1663174320170">
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1663307429083">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1663174320170" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1663307429083" />
     <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659867877687">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
