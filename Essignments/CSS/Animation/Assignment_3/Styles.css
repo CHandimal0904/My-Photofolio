@@ -1,0 +1,28 @@
+section>div{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    border: 4px solid darkblue;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    animation-name: my-Aimation;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+@keyframes my-Aimation {
+    0%{
+        width: 10px;
+        height: 10px;
+
+    }
+    100%{
+        width: 200px;
+        height: 200px;
+        opacity: 0;
+    }
+}
