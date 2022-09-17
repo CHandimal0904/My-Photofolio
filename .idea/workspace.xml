@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS/Animation/Assignment_3/Styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS/Animation/Assignment_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Animation1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Animation2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Animation3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Animation4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Essignments/CSS/Animation/Assignment_4/Styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Essignments/CSS/Animation/Assignment_4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Essignments/CSS/Trasnsitions/Assignment_2/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Essignments/CSS/Animation/Assignment_2/Styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Essignments/CSS/Trasnsitions/Assignment_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Essignments/CSS/Animation/Assignment_2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,17 +43,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSS_Animation_Assignment1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assets/Images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\CSS" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\Assignment1" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\fonts" />
-      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\CSS\Animation" />
@@ -125,7 +127,7 @@
       <workItem from="1663174046257" duration="8527000" />
       <workItem from="1663218496991" duration="7824000" />
       <workItem from="1663250906053" duration="986000" />
-      <workItem from="1663307367907" duration="14563000" />
+      <workItem from="1663307367907" duration="23091000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -274,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663341087353</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Complete Animation Assignment 4">
+      <created>1663343472561</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1663343472561</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,17 +321,18 @@
     <MESSAGE value="Complete Animation Assignment 1" />
     <MESSAGE value="Complete Animation Assignment 2" />
     <MESSAGE value="Complete Animation Assignment 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete Animation Assignment 3" />
+    <MESSAGE value="Complete Animation Assignment 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Animation Assignment 4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="42" key="#Inspections" timestamp="1663088704629">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1663088704629" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1663341084685">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1663343469438">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1663341084685" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1663343469438" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1663210967434">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
