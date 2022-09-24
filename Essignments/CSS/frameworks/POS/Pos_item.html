@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Item</title>
+    <link rel="stylesheet" href="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../../../Assets/fonts/css/all.min.css">
+    <link rel="stylesheet" href="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js">
+    <meta name="viewport" content="width=device-width initial-scale=1 maximum-scale=1 minimum-scale=1 user-scalable=no">
+</head>
+<body>
+    <!--Nav bar-->
+    <nav class="navbar navbar-expand-lg bg-light border-5">
+        <div class="container-fluid">
+            <h3 class="navbar-brand" href="#">Uresha Stores</h3>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Order</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Item</a>
+                    </li>
+
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+    <!--Item header-->
+    <section class="d-flex justify-content-center">
+    <div class="card w-75 bg-opacity-25">
+        <h5 class="card-header bg-success "><i class="fa-solid fa-bag-shopping"></i>Item</h5>
+        <div class="card-body">
+            <!--Devider-->
+            <h5 class="card-title"><nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Item</li>
+                </ol>
+            </nav></h5>
+            <!--Search Item-->
+            <div class="card" style="width: 25rem;">
+                <div class="card-header bg-success">
+                    Search Item
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item"><nav class="navbar bg-light">
+                        <div class="container-fluid">
+                            <form class="d-flex" role="search">
+                                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                                <button class="btn btn-outline-warning" type="submit">Search</button>
+                                <div class="dropdown">
+                                    <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Name
+                                    </button>
+                                    <ul class="dropdown-menu">
+                                        <li><a class="dropdown-item" href="#">Action</a></li>
+                                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                    </ul>
+                                </div>
+                             </form>
+                            </div>
+                     </nav></li>
+                    </ul>
+                </div>
+            <!--ADD NEW BUTTONS-->
+            <div class="btn-group fa-pull-right  " role="group" aria-label="Basic mixed styles example">
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" >Add new Item</button>
+                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header bg-success bg-opacity-50">
+                                <h5 class="modal-title" id="exampleModalLabel">Item</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <form>
+                                    <div class="mb-3">
+                                        <label for="Item-cde" class="col-form-label">Item Code:</label>
+                                        <input type="text" class="form-control" id="Item-cde">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="Item-Nme" class="col-form-label">Item Name:</label>
+                                        <input type="text" class="form-control" id="Item-Nme">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="Item-price" class="col-form-label">Item price</label>
+                                        <input type="text" class="form-control" id="Item-price">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="Item-qty" class="col-form-label">Item qty:</label>
+                                        <input type="text" class="form-control" id="Item-qty">
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="modal-footer fa-pull-right">
+                                <button type="button" class="btn btn-danger">Save</button>
+                                <button type="button" class="btn btn-warning">Renew</button>
+                                <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button type="button" class="btn btn-warning ">View All Customer</button>
+            </div>
+            <div class="btn-group" role="group" aria-label="Basic mixed styles example">
+                <button type="button" class="btn btn-danger">Delete</button>
+                <button type="button" class="btn btn-info">Details</button>
+                <button type="button" class="btn btn-success">Clear</button>
+            </div>
+            <!--Table-->
+            <table class="table">
+                <thead class="bg-success">
+                <tr class="table-primary">
+                    <th scope="col">Item Name</th>
+                    <th scope="col">Brand</th>
+                    <th scope="col">Qty</th>
+                    <th scope="col">Price</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <th scope="row">Soap</th>
+                    <td>Uniliver</td>
+                    <td>300</td>
+                    <td>120</td>
+                </tr>
+                <tr>
+                    <th scope="row">Biscuit</th>
+                    <td>Munchee</td>
+                    <td>400</td>
+                    <td>120</td>
+                </tr>
+                <tr>
+                    <th scope="row">Soya</th>
+                    <td>Raigam</td>
+                    <td>625</td>
+                    <td>230</td>
+                </tr>
+                </tbody>
+            </table>
+
+        </div>
+        </div>
+    </section>
+<script src="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js"></script>
+
+</body>
+</html>

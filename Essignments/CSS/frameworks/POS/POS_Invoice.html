@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Invoice</title>
+    <link rel="stylesheet" href="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../../../Assets/fonts/css/all.min.css">
+    <link rel="stylesheet" href="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js">
+    <meta name="viewport" content="width=device-width initial-scale=1 maximum-scale=1 minimum-scale=1 user-scalable=no">
+    <style>
+
+
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg bg-light">
+    <div class="container-fluid">
+        <h3 class="navbar-brand" href="#">Uresha Stores</h3>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse " id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Order</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Item</a>
+                </li>
+                <li class="nav-item fa-pull-right">
+                    <a class="nav-link active col " aria-current="page" href="#">Login</a>
+                </li>
+
+            </ul>
+
+        </div>
+    </div>
+</nav>
+<main class="container-fluid">
+<section class="row">
+    <div class="col-xl-4 ">
+        <!--Invoice Card-->
+        <div class="card">
+            <div class="card-header bg-success bg-opacity-75">
+                Invoice Details
+            </div>
+            <div class="card-body">
+                <!--Invoice BOdy-->
+                <form class="row g-3">
+                    <div class="col-md-6">
+                        <label for="OdrID" class="form-label">Order ID</label>
+                        <input type="email" class="form-control" id="OdrID" placeholder="OD001">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="OdrDte" class="form-label">Date</label>
+                        <input type="Date" class="form-control" id="OdrDte">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="CusNme" class="form-label">  Customer Name</label>
+                        <input type="email" class="form-control" id="CusNme" placeholder="Saman">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="CusId" class="form-label">Customer ID</label>
+                        <input type="email" class="form-control" id="CusId" placeholder="C001">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="CusAdd" class="form-label">Customer Address</label>
+                        <input type="email" class="form-control" id="CusAdd" placeholder="Mathugama">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-xl-4 ">
+        <!--Invoice Card-->
+        <div class="card ">
+            <div class="card-header bg-success bg-opacity-75">
+                Item Select
+            </div>
+            <div class="card-body">
+                <!--Invoice BOdy-->
+                <form class="row g-3">
+                    <div class="col-md-6">
+                        <label for="ItemNme" class="form-label">Item Name</label>
+                        <input type="text" class="form-control" id="ItemNme" placeholder="Soap">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="ItemID" class="form-label">Item ID</label>
+                        <input type="text" class="form-control" id="ItemID" placeholder="I001">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="ItmPrice" class="form-label"> Item price</label>
+                        <input type="text" class="form-control" id="ItmPrice" placeholder="RS 200">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="CusId" class="form-label">QTY on Hand</label>
+                        <input type="text" class="form-control" id="QtyOnHnd" placeholder="5000">
+                    </div>
+                    <div class="col-md-12">
+                        <label for="OdrQTY" class="form-label">Order QTY</label>
+                        <input type="text" class="form-control" id="OdrQTY" placeholder="2">
+                    </div>
+                    <div class="col-12">
+                        <button type="submit" class="btn btn-primary fa-pull-right bg-danger">Add Item</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-xl-4 ">
+        <form class="row">
+        <div class="card">
+            <div class="card-body">
+                <label class="form-label">Total</label>
+            </div>
+            <div class="card-body">
+                <label class="form-label">SubTotal</label>
+            </div>
+            <div class="row g-3">
+            <div class="col-xl-6">
+                <label for="csh" class="form-label">Cash</label>
+                <input type="text" class="form-control" id="csh">
+            </div>
+            <div class="col-xl-6">
+                <label for="Dscnt" class="form-label">Discount</label>
+                <input type="text" class="form-control" id="Dscnt">
+            </div>
+                <div class="col-xl-12">
+                    <label for="Blnce" class="form-label">Balance</label>
+                    <input type="text" class="form-control" id="Blnce">
+                </div>
+                <div class="col-12`">
+                    <button type="submit" class="btn btn-primary fa-pull-right bg-warning">Purchase</button>
+                </div>
+            </div>
+        </div>
+        </form>
+    </div>
+</section>
+    <div class="col-12">
+        <!--Table-->
+        <table class="table">
+            <thead class="bg-success">
+            <tr class="table-primary">
+                <th scope="col">Item ID</th>
+                <th scope="col">Item Name</th>
+                <th scope="col">Item Price</th>
+                <th scope="col">QTY</th>
+                <th scope="col">Total</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th scope="row"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th scope="row"></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            </tbody>
+        </table>
+
+    </div>
+</main>
+
+<script src="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js"></script>
+</body>
+</html>
