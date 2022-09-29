@@ -1,57 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Images/logo_busines.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/POS_Invoice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/POS_system.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/Pos_item.html" afterDir="false" />
+    <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="POS Ui with frameworks">
+      <change afterPath="$PROJECT_DIR$/Assets/JS/jquery-3.6.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JS/jquery.hislide.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/CSS/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CSS/Styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/POS_Invoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/POS_Invoice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/POS_system.html" beforeDir="false" afterPath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/POS_system.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/Pos_item.html" beforeDir="false" afterPath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/Pos_item.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Custumer form bootstrap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assets/JS" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -96,19 +53,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\JS" />
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Frameworks" />
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\CSS" />
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\CSS\Animation" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\CSS\Animations\Assignment1" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\CSS\Basics" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
-      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Frameworks" />
-      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\CSS" />
-      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments" />
-      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\Assignment1" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -182,7 +139,10 @@
       <workItem from="1663857889531" duration="14505000" />
       <workItem from="1663944706169" duration="9534000" />
       <workItem from="1663991244560" duration="12325000" />
-      <workItem from="1664028722614" duration="721000" />
+      <workItem from="1664028722614" duration="9866000" />
+      <workItem from="1664083137510" duration="1226000" />
+      <workItem from="1664260326969" duration="713000" />
+      <workItem from="1664463951593" duration="5595000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -345,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663413359096</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="POS Ui with frameworks">
+      <created>1664030240952</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1664030240952</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,37 +352,38 @@
     <MESSAGE value="Complete Animation Assignment 3" />
     <MESSAGE value="Complete Animation Assignment 4" />
     <MESSAGE value="Complete Animation Assignment 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete Animation Assignment 5" />
+    <MESSAGE value="POS Ui with frameworks" />
+    <option name="LAST_COMMIT_MESSAGE" value="POS Ui with frameworks" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="42" key="#Inspections" timestamp="1663088704629">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1663088704629" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1663413356620">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1664076313085">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1663413356620" />
-    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1663993262263">
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1664076313085" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1664473940880">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1663993262263" />
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1664473940880" />
     <state x="212" y="0" key="SettingsEditor" timestamp="1663442102386">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="212" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1663442102386" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1663991247234">
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1664260393996">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1663991247234" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1664260393996" />
     <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659867877687">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1659867877687" />
-    <state x="65" y="108" key="new project wizard" timestamp="1663551795736">
+    <state x="65" y="108" key="new project wizard" timestamp="1664260446051">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="65" y="108" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1663551795736" />
+    <state x="65" y="108" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1664260446051" />
     <state x="339" y="172" key="run.anything.popup" timestamp="1663089395224">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

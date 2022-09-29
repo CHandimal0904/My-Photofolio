@@ -11,6 +11,7 @@
     <meta name="owner" content="Tharindu Nimantha">
     <meta name="viewport" content="width=device-width initial-scale=1 maximum-scale=1 minimum-scale=1 user-scalable=no">
     <meta name="theme-color" content="red">
+    <link rel="stylesheet" href="Assets/CSS/Styles.css">
 </head>
 <body id="Mbdy">
 <main>
@@ -97,14 +98,37 @@
     <section class="SectionColor">
         <h3 class="headder">Life Style</h3>
         <section>
-            <section>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
-            </section>
+            <div class="slide hi-slide">
+                <div class="hi-prev"></div>
+                <div class="hi-next"></div>
+
+                <ul>
+                    <li>
+                        <img src="Assets/Images/LifeStyle1%20(6).jpg" alt="">
+                    </li>
+
+                    <li>
+                        <img src="Assets/Images/LifeStyle1%20(5).jpg" alt="">
+                    </li>
+
+                    <li>
+                        <img src="Assets/Images/LifeStyle1%20(4).jpg" alt="">
+                    </li>
+
+                    <li>
+                        <img src="Assets/Images/LifeStyle1%20(3).jpg" alt="">
+                    </li>
+
+                    <li>
+                        <img src="Assets/Images/LifeStyle1%20(3).jpg" alt="">
+                    </li>
+
+                    <li>
+                        <img src="Assets/Images/lifeStyle2.jpg" alt="">
+                    </li>
+
+                </ul>
+            </div>
         </section>
     </section>
 
@@ -166,5 +190,10 @@
         <img src="Assets/Images/apps-android-icon-png-10.png" alt="" width="40">
     </div>
 </footer>
+<script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+<script src="Assets/js/jquery.hislide.js"></script>
+<script>
+    $('.slide').hiSlide();
+</script>
 </body>
 </html>
