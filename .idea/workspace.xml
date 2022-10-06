@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="POS Ui with frameworks">
-      <change afterPath="$PROJECT_DIR$/Assets/JS/jquery-3.6.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/JS/jquery.hislide.js" afterDir="false" />
+    <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="Image Slider">
+      <change afterPath="$PROJECT_DIR$/Assets/Images/customer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/item.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/orders.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Essignments/JS/SPA.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CSS/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CSS/Styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/POS_Invoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/POS_Invoice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/POS_system.html" beforeDir="false" afterPath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/POS_system.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/Pos_item.html" beforeDir="false" afterPath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/Pos_item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assets/JS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Essignments/JS" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -54,11 +52,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\JS" />
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\JS" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Images" />
+      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\JS" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Assets\Frameworks" />
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\CSS" />
-      <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GDSE59\Internet Tecnologies\MyPhotofolio\Essignments\CSS\Animation" />
@@ -142,7 +140,14 @@
       <workItem from="1664028722614" duration="9866000" />
       <workItem from="1664083137510" duration="1226000" />
       <workItem from="1664260326969" duration="713000" />
-      <workItem from="1664463951593" duration="5595000" />
+      <workItem from="1664463951593" duration="5832000" />
+      <workItem from="1664520846437" duration="974000" />
+      <workItem from="1664778560506" duration="592000" />
+      <workItem from="1664847209950" duration="1777000" />
+      <workItem from="1664868917554" duration="2124000" />
+      <workItem from="1664942504422" duration="8241000" />
+      <workItem from="1664955756238" duration="2613000" />
+      <workItem from="1664984808371" duration="2996000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -312,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664030240952</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Image Slider">
+      <created>1664485653853</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1664485653853</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,29 +365,34 @@
     <MESSAGE value="Complete Animation Assignment 4" />
     <MESSAGE value="Complete Animation Assignment 5" />
     <MESSAGE value="POS Ui with frameworks" />
-    <option name="LAST_COMMIT_MESSAGE" value="POS Ui with frameworks" />
+    <MESSAGE value="Image Slider" />
+    <option name="LAST_COMMIT_MESSAGE" value="Image Slider" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="42" key="#Inspections" timestamp="1663088704629">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1663088704629" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1664076313085">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1664485762648">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1664076313085" />
-    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1664473940880">
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1664485762648" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1664957756347">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1664473940880" />
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1664957756347" />
     <state x="212" y="0" key="SettingsEditor" timestamp="1663442102386">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="212" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1663442102386" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1664260393996">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1664485774610">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1664260393996" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1664485774610" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1664955758272">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1664955758272" />
     <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659867877687">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

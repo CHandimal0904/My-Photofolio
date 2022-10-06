@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../../../Assets/fonts/css/all.min.css">
+    <link rel="stylesheet" href="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js">
+    <meta name="viewport" content="width=device-width initial-scale=1 maximum-scale=1 minimum-scale=1 user-scalable=no">
+    <style>
+        body>section:nth-child(2){
+            display: flex;
+
+        }
+     body>section:nth-child(2)>span{
+         width: 100px;
+         height: 100px;
+         margin: auto;
+
+     }
+
+    </style>
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg bg-light">
+        <div class="container-fluid">
+            <h3 class="navbar-brand" href="#">Uresha Stores</h3>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse " id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="Home.html" id="hme">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="POS_Invoice.html" id="invice">Invoice</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="Pos_item.html" id="Itm">Item</a>
+                    </li>
+                </ul>
+                <li class="nav-item fa-pull-right d-flex ">
+                    <a class="nav-link active col " aria-current="page" href="#"><i class="fa-solid fa-user-plus"></i>Login</a>
+                </li>
+                <li class="nav-item fa-pull-right d-flex ">
+                    <a class="nav-link active col " aria-current="page" href="#"><i class="fa-solid fa-arrow-right-from-bracket"></i>Log out</a>
+                </li>
+            </div>
+        </div>
+    </nav>
+</header>
+<section id="hdr">
+    <span class="border border-start-0"><i class="fa-solid fa-user-group"></i><a href="POS_system.html">Customer</a></span>
+    <span class="border border-start-0"><i class="fa-solid fa-cart-shopping"></i><a href="Pos_item.html">item</a></span>
+    <span class="border border-start-0"><i class="fa-brands fa-cc-amazon-pay"></i><a href="POS_Invoice.html">Invoice</a></span>
+</section>
+
+</body>
+</html>
