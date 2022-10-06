@@ -36,7 +36,7 @@
                 <a class="nav-link active col " aria-current="page" href="#"><i class="fa-solid fa-arrow-right-from-bracket"></i>Log out</a>
             </li>
         </div>
-
+    </div>
 </nav>
 <!--Item header-->
 <section class="d-flex justify-content-center">
@@ -112,7 +112,7 @@
                                 </form>
                             </div>
                             <div class="modal-footer fa-pull-right">
-                                <button type="button" class="btn btn-danger">Save</button>
+                                <button type="button" class="btn btn-danger" id="AddCusSve">Save</button>
                                 <button type="button" class="btn btn-warning">Renew</button>
                                 <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
 
@@ -166,5 +166,11 @@
 </section>
 
 <script src="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js"></script>
+<script src="../../../../Assets/JS/jquery-3.6.1.min.js"> </script>
+<script>
+    $("#AddCusSve").click(function () {
+        alert("hellow")
+    })
+</script>
 </body>
 </html>
