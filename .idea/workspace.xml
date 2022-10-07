@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Essignments/JS/Calculator/Calculator.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Essignments/JS/Calculator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Essignments/JS/Calculator/Calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/Essignments/JS/Calculator/Calculator.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +147,7 @@
       <workItem from="1665035159221" duration="2384000" />
       <workItem from="1665045316281" duration="1192000" />
       <workItem from="1665064171495" duration="3383000" />
-      <workItem from="1665105290371" duration="3623000" />
+      <workItem from="1665105290371" duration="7994000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -346,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665106779422</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Calculator UI">
+      <created>1665109584758</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1665109584758</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,7 +369,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Text content" />
     <MESSAGE value="Inline text semantics" />
     <MESSAGE value="Html Text content" />
     <MESSAGE value="Create Forms" />
@@ -388,17 +393,18 @@
     <MESSAGE value="Image Slider" />
     <MESSAGE value="Bootstrap Pos" />
     <MESSAGE value="Calculator Assignment Start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculator Assignment Start" />
+    <MESSAGE value="Calculator UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculator UI" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="42" key="#Inspections" timestamp="1663088704629">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1663088704629" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1665106775833">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1665109581031">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1665106775833" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1665109581031" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1664957756347">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -407,10 +413,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="212" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1663442102386" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1665107399124">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1665109591397">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1665107399124" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1665109591397" />
     <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1665064238598">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
