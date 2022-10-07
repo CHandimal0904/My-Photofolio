@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <title>POS</title>
     <link rel="stylesheet" href="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js">
     <link rel="stylesheet" href="../../../../Assets/fonts/css/all.min.css">
     <meta name="viewport" content="width=device-width initial-scale=1 maximum-scale=1 minimum-scale=1 user-scalable=no">
 </head>
@@ -169,7 +168,18 @@
 <script src="../../../../Assets/JS/jquery-3.6.1.min.js"> </script>
 <script>
     $("#AddCusSve").click(function () {
-        alert("hellow")
+       let CusId = $("#Cus-ID").val();
+        let CusNme = $("#Cus-Nme").val();
+       let CusAdd = $("#Cus-add").val();
+       let CusCnt = $("#Cus-cntct").val();
+
+    var customerObject = {
+           id:CusId,
+           name:CusNme,
+        Address:CusAdd,
+        Contact:CusCnt
+    }
+    console.log(customerObject);
     })
 </script>
 </body>
