@@ -81,7 +81,7 @@
             <div class="row justify-content-end">
             <div class="btn-group col align-self-end col-xs-12 col-md-4 col-lg-5 col-xl-5 " role="group" aria-label="Basic mixed styles example">
                 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" >Add new Customer</button>
-                <button type="button" class="btn btn-warning ">View All Customer</button>
+                <button type="button" class="btn btn-warning " id="btnviewAll">View All Customer</button>
             </div>
                 <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog">
@@ -128,6 +128,7 @@
             </div>
             </div>
             <!--Table-->
+
             <table class="table">
                 <thead class="bg-success">
                 <tr class="table-primary">
@@ -137,25 +138,10 @@
                     <th scope="col">Contact</th>
                 </tr>
                 </thead>
-                <tbody>
-                <tr>
-                    <th scope="row">C001</th>
-                    <td>Saman</td>
-                    <td>Mathugama</td>
-                    <td>0712342123</td>
-                </tr>
-                <tr>
-                    <th scope="row">C002</th>
-                    <td>Sandun</td>
-                    <td>Kaluthara</td>
-                    <td>0712327423</td>
-                </tr>
-                <tr>
-                    <th scope="row">C003</th>
-                    <td>Nimal</td>
-                    <td>Mathara</td>
-                    <td>0712304267</td>
-                </tr>
+                <tbody id="cusTbl">
+                    <tr>
+
+                    </tr>
                 </tbody>
             </table>
 
@@ -167,6 +153,9 @@
 <script src="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js"></script>
 <script src="../../../../Assets/JS/jquery-3.6.1.min.js"> </script>
 <script>
+
+    var customers=[];
+
     $("#AddCusSve").click(function () {
        let CusId = $("#Cus-ID").val();
         let CusNme = $("#Cus-Nme").val();
@@ -179,8 +168,35 @@
         Address:CusAdd,
         Contact:CusCnt
     }
-    console.log(customerObject);
+    customers.push(customerObject);
+        loadAll();
+    });
+
+    $("#btnviewAll").click(function () {
+        loadAll();
+    });
+
+    function loadAll() {
+        $("#cusTbl").empty();
+        for (var customer of customers){
+            var row = "<tr> <td>"+customer.id+"</td> <td>"+customer.name+"</td> <td>"+customer.Address+"</td> <td>"+customer.Contact+"</td> </tr>"
+            $("#cusTbl").append(row);
+        }
+
+    }
+    $("#cusTbl>tr").click(function () {
+        let id = $(this).children(":eq(0)").text();
+        let name = $(this).children(":eq(1)").text();
+        let Address = $(this).children(":eq(2)").text();
+        let contact = $(this).children(":eq(3)").text();
+
+        $('#Cus-ID').val(id);
+        $('#Cus-Nme').val(name);
+        $('#Cus-add').val(Address);
+        $('#Cus-cntct').val(contact);
     })
+
+
 </script>
 </body>
 </html>
