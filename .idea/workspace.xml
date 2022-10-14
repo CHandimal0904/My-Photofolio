@@ -4,7 +4,6 @@
     <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/POS_system.html" beforeDir="false" afterPath="$PROJECT_DIR$/Essignments/CSS/frameworks/POS/POS_system.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Essignments/JS/Calculator/Calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/Essignments/JS/Calculator/Calculator.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson/Java-Script-1d5df776128c5f55e3321b4eb4535135af364079" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -156,7 +155,12 @@
       <workItem from="1665337926622" duration="1220000" />
       <workItem from="1665389438995" duration="590000" />
       <workItem from="1665452331224" duration="5690000" />
-      <workItem from="1665503327042" duration="9346000" />
+      <workItem from="1665503327042" duration="11654000" />
+      <workItem from="1665583699557" duration="16276000" />
+      <workItem from="1665656539141" duration="2638000" />
+      <workItem from="1665680505292" duration="582000" />
+      <workItem from="1665710945498" duration="970000" />
+      <workItem from="1665713466501" duration="6866000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -361,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665109584758</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Data load to TextFeilds">
+      <created>1665558047704</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1665558047704</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,7 +389,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Inline text semantics" />
     <MESSAGE value="Html Text content" />
     <MESSAGE value="Create Forms" />
     <MESSAGE value="Complete Html" />
@@ -403,21 +413,22 @@
     <MESSAGE value="Bootstrap Pos" />
     <MESSAGE value="Calculator Assignment Start" />
     <MESSAGE value="Calculator UI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculator UI" />
+    <MESSAGE value="Data load to TextFeilds" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data load to TextFeilds" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="42" key="#Inspections" timestamp="1663088704629">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1663088704629" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1665109581031">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1665558041084">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1665109581031" />
-    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1665469669179">
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1665558041084" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1665617122259">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1665469669179" />
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1665617122259" />
     <state x="212" y="0" key="SettingsEditor" timestamp="1663442102386">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -426,10 +437,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1665109591397" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1665452330215">
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1665713605702">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1665452330215" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1665713605702" />
     <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659867877687">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
