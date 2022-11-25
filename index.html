@@ -12,6 +12,7 @@
     <meta name="viewport" content="width=device-width initial-scale=1 maximum-scale=1 minimum-scale=1 user-scalable=no">
     <meta name="theme-color" content="red">
     <link rel="stylesheet" href="Assets/CSS/Styles.css">
+    <link rel="stylesheet" href="Assets/fonts/css/all.min.css">
 </head>
 <body id="Mbdy">
 <main>
@@ -19,13 +20,13 @@
     <nav id="HderNav">
         <li id="Hname">Nimantha</li>
         <ul id="navbar">
-            <li id="Hhome"><i class="fa-solid fa-house"></i><a href=""> Home </a> </li>
-            <li id="Habout"><i class="fa-solid fa-address-card"></i><a href=""> About </a> </li>
-            <li id="Heducation"><i class="fa-solid fa-graduation-cap"></i><a href="">Education</a> </li>
-            <li id="Hskils"><i class="fa-solid fa-person-digging"></i><a href="">Skils</a> </li>
-            <li id="Hprojects"><i class="fa-solid fa-laptop-code"></i><a href="">Projects</a> </li>
-            <li id="Hlife"><i class="fa-solid fa-person-swimming"></i><a href="">Life Style</a> </li>
-            <li id="Hcontact"><i class="fa-solid fa-headset"></i><a href="">Contact</a> </li>
+            <li id="Hhome"><i class="fa-solid fa-house"></i><a href="#home"> Home </a> </li>
+            <li id="Habout"><i class="fa-solid fa-address-card"></i><a href="#Abt"> About </a> </li>
+            <li id="Heducation"><i class="fa-solid fa-graduation-cap"></i><a href="#Eduction">Education</a> </li>
+            <li id="Hskils"><i class="fa-solid fa-person-digging"></i><a href="skls">Skils</a> </li>
+            <li id="Hprojects"><i class="fa-solid fa-laptop-code"></i><a href="#prjcts">Projects</a> </li>
+            <li id="Hlife"><i class="fa-solid fa-person-swimming"></i><a href="#lfstle">Life Style</a> </li>
+            <li id="Hcontact"><i class="fa-solid fa-headset"></i><a href="#cntct">Contact</a> </li>
 
         </ul>
             <div>
@@ -35,7 +36,7 @@
     </nav>
 
 
-    <section>
+    <section id="home">
         <img src="Assets/Images/pcbyFzcn67b.jpg" alt="This is a image of Univercity of ruhuna" id="uorimg">
         <img src="Assets/Images/1659371522240.jpg" alt="this is a profile picture" width="400" id="PrflePc">
         <a href="www.fb.com" id="cntctfb"><img src="Assets/Images/fb_icon_325x325.png" alt="this is fb icon" width="30" class="cntimg"></a>
@@ -52,7 +53,7 @@
     </section>
 
     <section class="SectionColor">
-        <h3 class="headder">About Me</h3>
+        <h3 class="headder" id="Abt">About Me</h3>
         <address>
             <ul id="abtLi">
             <li id="abtName"> <i class="fa-solid fa-user"></i>Gammana Liyanage Tharindu Nimantha Chandimal</li>
@@ -68,11 +69,11 @@
  </header>
 
     <section class="SectionColor">
-        <h3 class="headder">Education</h3>
+        <h3 class="headder" id="Eduction">Education</h3>
     </section>
 
     <section class="SectionColor">
-        <h3 class="headder">Skils</h3>
+        <h3 class="headder" id="skls">Skils</h3>
         <img src="Assets/Images/javaLogo.png" alt="java logo"width="250">
         <img src="Assets/Images/MySqlLogo.png" alt="MySql Logo" width="250">
         <img src="Assets/Images/intellij-idea-logo-black-and-white.png" alt="intelliJ logo"width="250">
@@ -84,7 +85,7 @@
     </section>
 
     <section id="SeProjects">
-        <h3 class="headder">Projects</h3>
+        <h3 class="headder" id="prjcts">Projects</h3>
         <nav>
             <img src="Assets/Images/project%20img%20(1).jpg" alt="" width="250">
             <img src="Assets/Images/project%20img2.webp" alt="" width="250">
@@ -96,7 +97,7 @@
     </section>
 
     <section class="SectionColor">
-        <h3 class="headder">Life Style</h3>
+        <h3 class="headder" id="lfstle">Life Style</h3>
         <section>
             <div class="slide hi-slide">
                 <div class="hi-prev"></div>
@@ -133,7 +134,7 @@
     </section>
 
     <section class="SectionColor">
-        <h3 class="headder">Contact</h3>
+        <h3 class="headder" id="cntct">Contact</h3>
         <dl>
             <dt class="Dcntct"><i class="fa-solid fa-user"></i>Name</dt>
             <dd class="cntct">Gammana Liyanage Tharindu Nimantha Chandimal</dd>
@@ -194,6 +195,17 @@
 <script src="Assets/js/jquery.hislide.js"></script>
 <script>
     $('.slide').hiSlide();
+   function scroll() {
+    if (window.location.hash){
+        scroll(0,0);
+        setTimeout(function () {
+        scroll(0,0);
+        },1);
+    $("html,body").animate({
+        scrolTop
+    })
+    }
+   }
 </script>
 </body>
 </html>

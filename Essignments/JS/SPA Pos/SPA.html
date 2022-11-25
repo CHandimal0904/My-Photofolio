@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>Home</title>
-    <link rel="stylesheet" href="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../../../../Assets/fonts/css/all.min.css">
-    <link rel="stylesheet" href="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js">
+    <link rel="stylesheet" href="../../../Assets/Frameworks/bootstrap-5.2.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../../Assets/fonts/css/all.min.css">
+    <link rel="stylesheet" href="../../../Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js">
     <meta name="viewport" content="width=device-width initial-scale=1 maximum-scale=1 minimum-scale=1 user-scalable=no">
     <style>
         body>section:nth-child(2){
@@ -34,11 +34,16 @@
                         <a class="nav-link active" aria-current="page" href="#" id="hme">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#" id="invice">Invoice</a>
+                        <a class="nav-link active" aria-current="page" href="#" id="Cus">Customer</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#" id="Itm">Item</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#" id="invice">Invoice</a>
+                    </li>
+
+
                 </ul>
                 <li class="nav-item fa-pull-right d-flex ">
                     <a class="nav-link active col " aria-current="page" href="#"><i class="fa-solid fa-user-plus"></i>Login</a>
@@ -55,133 +60,122 @@
     <span class="border border-start-0"><i class="fa-solid fa-cart-shopping"></i>item</span>
     <span class="border border-start-0"><i class="fa-brands fa-cc-amazon-pay"></i>Invoice</span>
 </section>
-
-<section id="Customer">
-    <section class="d-flex justify-content-center">
-        <div class="card w-75 bg-opacity-25">
-            <h5 class="card-header bg-success "><i class="fa-solid fa-users"></i></i>Customer</h5>
-            <div class="card-body">
-                <!--Devider-->
-                <h8 class="card-title"><nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
-                    <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Customer</li>
-                    </ol>
-                </nav></h8>
-                <!--Search Item-->
-                <div class="row">
-                    <div class="card col-lg-6 col-lg-4 col-md-8" >
-                        <div class="card-header bg-success">
-                            Search Customer
-                        </div>
-                        <ul class="list-group list-group-flush">
-                            <li class="list-group-item"><nav class="navbar bg-light">
-                                <div class="container-fluid">
-                                    <form class="d-flex" role="search">
-                                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                                        <button class="btn btn-outline-warning" type="submit">Search</button>
-                                        <div class="dropdown">
-                                            <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                                Name
-                                            </button>
-                                            <ul class="dropdown-menu">
-                                                <li><a class="dropdown-item" href="#">Action</a></li>
-                                                <li><a class="dropdown-item" href="#">Another action</a></li>
-                                                <li><a class="dropdown-item" href="#">Something else here</a></li>
-                                            </ul>
-                                        </div>
-                                    </form>
-                                </div>
-                            </nav></li>
-                        </ul>
+<section id="customer">
+<section class="d-flex justify-content-center">
+    <div class="card w-75 bg-opacity-25">
+        <h5 class="card-header bg-success "><i class="fa-solid fa-users"></i></i>Customer</h5>
+        <div class="card-body">
+            <!--Devider-->
+            <h8 class="card-title"><nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Customer</li>
+                </ol>
+            </nav></h8>
+            <!--Search Item-->
+            <div class="row">
+                <div class="card col-lg-6 col-lg-4 col-md-8" >
+                    <div class="card-header bg-success">
+                        Search Customer
                     </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item"><nav class="navbar bg-light">
+                            <div class="container-fluid">
+                                <form class="d-flex" role="search">
+                                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                                    <button class="btn btn-outline-warning" type="submit">Search</button>
+                                    <div class="dropdown">
+                                        <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Name
+                                        </button>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" href="#">Action</a></li>
+                                            <li><a class="dropdown-item" href="#">Another action</a></li>
+                                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                        </ul>
+                                    </div>
+                                </form>
+                            </div>
+                        </nav></li>
+                    </ul>
                 </div>
-                <!--ADD NEW BUTTONS-->
-                <div class="row justify-content-end">
-                    <div class="btn-group col align-self-end col-xs-12 col-md-4 col-lg-5 col-xl-5 " role="group" aria-label="Basic mixed styles example">
-                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" >Add new Customer</button>
-                        <button type="button" class="btn btn-warning ">View All Customer</button>
-                    </div>
-                    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                        <div class="modal-dialog">
-                            <div class="modal-content">
-                                <div class="modal-header bg-success bg-opacity-50">
-                                    <h5 class="modal-title" id="exampleModalLabel">Customer</h5>
-                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                </div>
-                                <div class="modal-body">
-                                    <form>
-                                        <div class="mb-3">
-                                            <label for="Cus-ID" class="col-form-label">Customer Id</label>
-                                            <input type="text" class="form-control" id="Cus-ID">
-                                        </div>
-                                        <div class="mb-3">
-                                            <label for="Cus-Nme" class="col-form-label">Customer Name:</label>
-                                            <input type="text" class="form-control" id="Cus-Nme">
-                                        </div>
-                                        <div class="mb-3">
-                                            <label for="Cus-add" class="col-form-label">Customer Address</label>
-                                            <input type="text" class="form-control" id="Cus-add">
-                                        </div>
-                                        <div class="mb-3">
-                                            <label for="Cus-cntct" class="col-form-label">Customer Contact</label>
-                                            <input type="text" class="form-control" id="Cus-cntct">
-                                        </div>
-                                    </form>
-                                </div>
-                                <div class="modal-footer fa-pull-right">
-                                    <button type="button" class="btn btn-danger">Save</button>
-                                    <button type="button" class="btn btn-warning">Renew</button>
-                                    <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
+            </div>
+            <!--ADD NEW BUTTONS-->
+            <div class="row justify-content-end">
+                <div class="btn-group col align-self-end col-xs-12 col-md-4 col-lg-5 col-xl-5 " role="group" aria-label="Basic mixed styles example">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" >Add new Customer</button>
+                    <button type="button" class="btn btn-warning " id="btnviewAll">View All Customer</button>
+                </div>
+                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header bg-success bg-opacity-50">
+                                <h5 class="modal-title" id="exampleModalLabel">Customer</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <form>
+                                    <div class="mb-3">
+                                        <label for="Cus-ID" class="col-form-label">Customer Id</label>
+                                        <input type="text" class="form-control" id="Cus-ID">
+                                        <span class="control-error" id="CusIdLbl"></span>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="Cus-Nme" class="col-form-label">Customer Name:</label>
+                                        <input type="text" class="form-control" id="Cus-Nme">
+                                        <span class="control-error" id="CusNmeLbl"></span>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="Cus-add" class="col-form-label">Customer Address</label>
+                                        <input type="text" class="form-control" id="Cus-add">
+                                        <span class="control-error" id="CusAddLbl"></span>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="Cus-cntct" class="col-form-label">Customer Contact</label>
+                                        <input type="text" class="form-control" id="Cus-cntct">
+                                        <span class="control-error" id="CusCntctLbl"></span>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="modal-footer fa-pull-right">
+                                <button type="button" class="btn btn-danger" id="AddCusSve" disabled>Save</button>
+                                <button type="button" class="btn btn-warning" id="Renew">Renew</button>
+                                <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
 
-                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="btn-group col-xs-12 col-sm-12 col-md-4" role="group" aria-label="Basic mixed styles example">
-                        <button type="button" class="btn btn-danger">Delete</button>
-                        <button type="button" class="btn btn-info">Details</button>
-                        <button type="button" class="btn btn-success">Clear</button>
-                    </div>
-                </div>
-                <!--Table-->
-                <table class="table">
-                    <thead class="bg-success">
-                    <tr class="table-primary">
-                        <th scope="col">Customer ID</th>
-                        <th scope="col">Name</th>
-                        <th scope="col">Address</th>
-                        <th scope="col">Contact</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                        <th scope="row">C001</th>
-                        <td>Saman</td>
-                        <td>Mathugama</td>
-                        <td>0712342123</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">C002</th>
-                        <td>Sandun</td>
-                        <td>Kaluthara</td>
-                        <td>0712327423</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">C003</th>
-                        <td>Nimal</td>
-                        <td>Mathara</td>
-                        <td>0712304267</td>
-                    </tr>
-                    </tbody>
-                </table>
-
             </div>
+            <div class="row">
+                <div class="btn-group col-xs-12 col-sm-12 col-md-4" role="group" aria-label="Basic mixed styles example">
+                    <button type="button" class="btn btn-danger" id="btnDlte">Delete</button>
+                    <button type="button" class="btn btn-info">Details</button>
+                    <button type="button" class="btn btn-success">Clear</button>
+                </div>
+            </div>
+            <!--Table-->
+
+            <table class="table">
+                <thead class="bg-success">
+                <tr class="table-primary">
+                    <th scope="col">Customer ID</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Address</th>
+                    <th scope="col">Contact</th>
+                </tr>
+                </thead>
+                <tbody id="cusTbl">
+                <tr>
+
+                </tr>
+                </tbody>
+            </table>
+
         </div>
-        </div>
-    </section>
+    </div>
+    </div>
+</section>
 </section>
 
 <section id="item">
@@ -224,12 +218,12 @@
                 </div>
                 <!--ADD NEW BUTTONS-->
                 <div class="btn-group fa-pull-right  " role="group" aria-label="Basic mixed styles example">
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" >Add new Item</button>
-                    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1" >Add new Item</button>
+                    <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header bg-success bg-opacity-50">
-                                    <h5 class="modal-title" id="exampleModalLabel">Item</h5>
+                                    <h5 class="modal-title" id="exampleModalLabel1">Item</h5>
                                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
@@ -237,34 +231,39 @@
                                         <div class="mb-3">
                                             <label for="Item-cde" class="col-form-label">Item Code:</label>
                                             <input type="text" class="form-control" id="Item-cde">
+                                            <span class="control-error" id="ItemcdeLbl"></span>
                                         </div>
                                         <div class="mb-3">
                                             <label for="Item-Nme" class="col-form-label">Item Name:</label>
                                             <input type="text" class="form-control" id="Item-Nme">
+                                            <span class="control-error" id="ItemNmeLbl"></span>
+
                                         </div>
                                         <div class="mb-3">
                                             <label for="Item-price" class="col-form-label">Item price</label>
                                             <input type="text" class="form-control" id="Item-price">
+                                            <span class="control-error" id="ItempriceLbl"></span>
                                         </div>
                                         <div class="mb-3">
                                             <label for="Item-qty" class="col-form-label">Item qty:</label>
                                             <input type="text" class="form-control" id="Item-qty">
+                                            <span class="control-error" id="ItemqtyLbl"></span>
                                         </div>
                                     </form>
                                 </div>
                                 <div class="modal-footer fa-pull-right">
-                                    <button type="button" class="btn btn-danger">Save</button>
-                                    <button type="button" class="btn btn-warning">Renew</button>
+                                    <button type="button" class="btn btn-danger" id="AddItmSve">Save</button>
+                                    <button type="button" class="btn btn-warning"id="#RenewItem">Renew</button>
                                     <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
 
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <button type="button" class="btn btn-warning ">View All Customer</button>
+                    <button type="button" class="btn btn-warning " id="viewAllItem">View All Items</button>
                 </div>
                 <div class="btn-group" role="group" aria-label="Basic mixed styles example">
-                    <button type="button" class="btn btn-danger">Delete</button>
+                    <button type="button" class="btn btn-danger" id="btnItemDlte">Delete</button>
                     <button type="button" class="btn btn-info">Details</button>
                     <button type="button" class="btn btn-success">Clear</button>
                 </div>
@@ -278,24 +277,9 @@
                         <th scope="col">Price</th>
                     </tr>
                     </thead>
-                    <tbody>
+                    <tbody id="ItemTbl">
                     <tr>
-                        <th scope="row">Soap</th>
-                        <td>Uniliver</td>
-                        <td>300</td>
-                        <td>120</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Biscuit</th>
-                        <td>Munchee</td>
-                        <td>400</td>
-                        <td>120</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Soya</th>
-                        <td>Raigam</td>
-                        <td>625</td>
-                        <td>230</td>
+
                     </tr>
                     </tbody>
                 </table>
@@ -451,28 +435,11 @@
 
 </section>
 </section>
-<script src="../../../../Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js"></script>
-<script src="../../../../Assets/JS/jquery-3.6.1.min.js"></script>
-<script>
-$("#hme").click(function () {
-    $("#Customer").css('visibility','hidden');
-    $("#item").css('visibility','hidden');
-    $("#invoice").css('visibility','hidden');
-    $("#hdr").css('visibility','visible');
-
-})
-$("#Itm").click(function () {
-    $("#Customer").css('visibility','hidden');
-    $("#item").css('visibility','visible');
-    $("#invoice").css('visibility','hidden');
-    $("#hdr").css('visibility','hidden');
-})
-$("#invice").click(function () {
-    $("#Customer").css('visibility','hidden');
-    $("#item").css('visibility','hidden');
-    $("#invoice").css('visibility','visible');
-    $("#hdr").css('visibility','hidden');
-})
-</script>
+<script src="../../../Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js"></script>
+<script src="../../../Assets/JS/jquery-3.6.1.min.js"></script>
+<script src="controller/DashbordController.js"></script>
+<script src="controller/Customer%20controller.js"></script>
+<script src="db/DB.js"></script>
+<script src="controller/Item%20Controller.js"></script>
 </body>
 </html>
