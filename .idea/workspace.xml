@@ -188,7 +188,7 @@
       <workItem from="1668308528280" duration="585000" />
       <workItem from="1668475061528" duration="565000" />
       <workItem from="1669339796666" duration="6940000" />
-      <workItem from="1669428203313" duration="1790000" />
+      <workItem from="1669428203313" duration="4073000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -421,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669355790778</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="JS Que background colour add">
+      <created>1669432141824</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1669432141824</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,7 +445,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Complete Html" />
     <MESSAGE value="Complete Html Final" />
     <MESSAGE value="Link CSS" />
     <MESSAGE value="CSS Selectors" />
@@ -463,17 +469,18 @@
     <MESSAGE value="Data load to TextFeilds" />
     <MESSAGE value="Customer final" />
     <MESSAGE value="JS Que" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS Que" />
+    <MESSAGE value="JS Que background colour add" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS Que background colour add" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="42" key="#Inspections" timestamp="1663088704629">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1663088704629" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1669355780075">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1669432136443">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1669355780075" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1669432136443" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1668250825251">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

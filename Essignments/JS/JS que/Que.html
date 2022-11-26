@@ -21,7 +21,7 @@
                 </div>
 
                 <div class="col-12">
-                    <button type="submit" class="btn btn-primary">Save</button>
+                    <button type="button" class="btn btn-primary" id="BtnQue">Save</button>
                 </div>
 
             </form>
@@ -43,14 +43,27 @@
             {name:"kasun",colour:"red"},
             {name:"hasitha",colour:"blue"},
             {name:"kumara",colour:"green"}
-            ]
+            ],
+        nextPerson:function () {
+            var lastPerson=this.persons.pop();
+            this.persons.unshift(lastPerson);
+        }
     }
     RenderDivs();
     function RenderDivs(){
+        $("#container").empty();
         for (let i = 0; i <QueData.persons.length ; i++) {
             $("#container").append(`<div style="background-color:${QueData.persons[i].colour} "> <h1>${QueData.persons[i].name}</h1></div>`);
         }
+        QueData.nextPerson();
     }
+    setInterval(RenderDivs,600)
+    $("#BtnQue").click(function () {
+      let inputName= $("#txtname").val();
+      let selectedColour = $("#txtcolour").val();
+      var person={name:inputName,colour:selectedColour};
+      QueData.persons.unshift(person);
+    })
 </script>
 </body>
 </html>
