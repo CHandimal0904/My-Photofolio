@@ -30,14 +30,27 @@
 </section>
 <main class="container-fluid mt-3">
 <section id="container" class="mt-5">
-    <div> <h1>saman</h1></div>
-    <div> <h1>hasitha</h1></div>
-    <div> <h1>kumara</h1></div>
+
 </section>
 </main>
 
 
 <script src="../../../Assets/JS/jquery-3.6.1.min.js"></script>
 <script src="../../../Assets/Frameworks/bootstrap-5.2.1-dist/js/bootstrap.min.js"></script>
+<script>
+    var QueData={
+        persons:[
+            {name:"kasun",colour:"red"},
+            {name:"hasitha",colour:"blue"},
+            {name:"kumara",colour:"green"}
+            ]
+    }
+    RenderDivs();
+    function RenderDivs(){
+        for (let i = 0; i <QueData.persons.length ; i++) {
+            $("#container").append(`<div style="background-color:${QueData.persons[i].colour} "> <h1>${QueData.persons[i].name}</h1></div>`);
+        }
+    }
+</script>
 </body>
 </html>

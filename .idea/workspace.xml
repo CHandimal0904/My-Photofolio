@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dca890dc-40a8-4d3e-b617-446e587fe605" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Essignments/JS/JS que/Que.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/JS/JS que/Styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/JS/SPA Pos/controller/Customer controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/JS/SPA Pos/controller/DashbordController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/JS/SPA Pos/controller/Item Controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Essignments/JS/SPA Pos/db/DB.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Essignments/JS/SPA.html" beforeDir="false" afterPath="$PROJECT_DIR$/Essignments/JS/SPA Pos/SPA.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Essignments/JS/JS que/Que.html" beforeDir="false" afterPath="$PROJECT_DIR$/Essignments/JS/JS que/Que.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +187,8 @@
       <workItem from="1668250484777" duration="526000" />
       <workItem from="1668308528280" duration="585000" />
       <workItem from="1668475061528" duration="565000" />
-      <workItem from="1669339796666" duration="5245000" />
+      <workItem from="1669339796666" duration="6940000" />
+      <workItem from="1669428203313" duration="1790000" />
     </task>
     <task id="LOCAL-00001" summary="Add Img">
       <created>1658393820891</created>
@@ -420,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665725318596</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="JS Que">
+      <created>1669355790778</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1669355790778</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,7 +438,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create Forms" />
     <MESSAGE value="Complete Html" />
     <MESSAGE value="Complete Html Final" />
     <MESSAGE value="Link CSS" />
@@ -462,17 +462,18 @@
     <MESSAGE value="Calculator UI" />
     <MESSAGE value="Data load to TextFeilds" />
     <MESSAGE value="Customer final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Customer final" />
+    <MESSAGE value="JS Que" />
+    <option name="LAST_COMMIT_MESSAGE" value="JS Que" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="42" key="#Inspections" timestamp="1663088704629">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1663088704629" />
-    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1665725310157">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1669355780075">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1665725310157" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1669355780075" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1668250825251">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -481,18 +482,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="212" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1663442102386" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1665725320950">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1669355795553">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1665725320950" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1668477655714">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1669355795553" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1669428229341">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1668477655714" />
-    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1659867877687">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1659867877687" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1669428229341" />
     <state x="65" y="108" key="new project wizard" timestamp="1664260446051">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
